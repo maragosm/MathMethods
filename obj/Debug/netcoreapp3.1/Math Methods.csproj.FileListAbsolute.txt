@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\bin\Debug\netcoreapp3.1\Math Methods.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\bin\Debug\netcoreapp3.1\Math Methods.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\bin\Debug\netcoreapp3.1\Math Methods.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\bin\Debug\netcoreapp3.1\Math Methods.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\bin\Debug\netcoreapp3.1\Math Methods.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\bin\Debug\netcoreapp3.1\Math Methods.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\Math Methods\obj\Debug\netcoreapp3.1\Math Methods.genruntimeconfig.cache
